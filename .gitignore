@@ -1,0 +1,4 @@
+Release/*
+*.user
+*.ncb
+!.gitkeep
